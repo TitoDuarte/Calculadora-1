@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.calcualadora {
+    background-color: greenyellow;
+}
+
+button {
+    margin: 0px;
+    padding: 9px;
+}
